@@ -1,2 +1,2 @@
 // show alert
-alert('Really Hello Evgeniy!');
+alert('Really Hello Evgeniy! !~');
